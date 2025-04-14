@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MyCountryApp.Controllers.CountryController",
+    "Method": "GetInfo",
+    "RelativePath": "api/Country/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
